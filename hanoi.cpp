@@ -60,3 +60,4 @@ void print(int n){
 		C.push(temp3.pop());
 	} 
 	cout << endl;
+}
